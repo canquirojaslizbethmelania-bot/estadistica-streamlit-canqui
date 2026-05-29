@@ -57,7 +57,7 @@ st.write("Lectura del archivo estudiantes.csv")
 # LEER ARCHIVO CSV
 # =========================================================
 
-df = pd.read_csv("estudiantes.csv")
+df = pd.read_csv("datos_estudiantes.csv")
 # =========================================================
 # CANTIDAD DE DATOS
 # =========================================================
